@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Session 25: Getting Players to Play Your Game by Sean Baptiste (Fire Hose
   Games)'
 uid: cab597a9-2686-4525-fe64-b17c63d76758
 video_files:
   archive_url: http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec25_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/97834ddc19df5cc985d1d43b2681ae28_zaabQDKK8WY.vtt
-  video_thumbnail_file: null
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/38d12e6932c83f09321a259bb2166c99_zaabQDKK8WY.pdf
+  video_captions_file: /courses/cms-611j-creating-video-games-fall-2014/97834ddc19df5cc985d1d43b2681ae28_zaabQDKK8WY.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/zaabQDKK8WY/default.jpg
+  video_transcript_file: /courses/cms-611j-creating-video-games-fall-2014/38d12e6932c83f09321a259bb2166c99_zaabQDKK8WY.pdf
 video_metadata:
   youtube_id: zaabQDKK8WY
 ---

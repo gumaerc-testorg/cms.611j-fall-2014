@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 7cf88c38-e571-6315-bc92-a6436ff438f6
 ---
@@ -26,7 +28,7 @@ Course Outcomes
 
 ### Possibilities for Further Study/Careers
 
-Students interested in designing games for entertainment often go on to take _CMS.617 Advanced Game Studio_ and [_CMS.610 Media Industries and Systems_](/courses/cms-610-media-industries-and-systems-spring-2006/). Students interested in designing games for education usually take [_CMS.615 Games for Change_](/courses/cms-615-games-for-social-change-fall-2013/) and [_CMS.590J Computer Games and Simulations for Investigation and Education_](/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/). Some students develop an academic interest in games, and for them, courses like [_CMS.300 Introduction to Videogame Studies_](/courses/cms-300-introduction-to-videogame-studies-fall-2011/) and _CMS.616J Games and Culture_ provide a good foundation for their work.
+Students interested in designing games for entertainment often go on to take _CMS.617 Advanced Game Studio_ and [_CMS.610 Media Industries and Systems_](./resolveuid/d166d7968b0da0a07fc066905bc32723). Students interested in designing games for education usually take [_CMS.615 Games for Change_](/courses/cms-615-games-for-social-change-fall-2013/) and [_CMS.590J Computer Games and Simulations for Investigation and Education_](/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/). Some students develop an academic interest in games, and for them, courses like [_CMS.300 Introduction to Videogame Studies_](./resolveuid/2c81dfb22b6a12385f3f897b27e65de9) and _CMS.616J Games and Culture_ provide a good foundation for their work.
 
 Meet the Instructors
 --------------------
@@ -116,20 +118,6 @@ Curriculum Information
 ### Offered
 
 Every fall semester.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Photo of tiered tables and chairs with an instructor’s table at the front of the room. Modern wood paneling lines the walls.]({{< resource_file 452c13e7-2e7f-7acb-9d8b-12361010aa1b >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture/Lab
-    
-    This course was taught in a room with tiered fixed furniture, A/V equipment, and board space. The instructors would have preferred to teach the course in a flat classroom (not tiered) equipped with moveable tables and chairs.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

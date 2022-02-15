@@ -2,12 +2,16 @@
 content_type: resource
 description: Photograph of the classroom used to teach CMS.611J Creating Video Games
   in Fall 2014.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/452c13e72e7f7acb9d8b12361010aa1b_CMS-611_classroom-1.jpg
+file: /media/courses/cms-611j-creating-video-games-fall-2014/452c13e72e7f7acb9d8b12361010aa1b_CMS-611_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: CMS-611_classroom-1
 uid: 452c13e7-2e7f-7acb-9d8b-12361010aa1b

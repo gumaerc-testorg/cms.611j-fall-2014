@@ -2,8 +2,10 @@
 content_type: resource
 description: Subtitle file for a lecture video. In this lecture, Richard Ludlow and
   Andy Forsberg from Hexany Audio discuss professional sound design for video games.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/fd56e8989c988dd48f1e435eaa9996bf_Ey_eWZhG8vI.srt
+file: /media/courses/cms-611j-creating-video-games-fall-2014/fd56e8989c988dd48f1e435eaa9996bf_Ey_eWZhG8vI.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: fd56e898-9c98-8dd4-8f1e-435eaa9996bf

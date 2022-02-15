@@ -2,12 +2,16 @@
 content_type: resource
 description: Image showing the number of students enrolled in CMS.611J Creating Video
   Games in Fall 2014.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/72462e003aae6471e1539ca13feb0243_CMS-611_stat-students.png
+file: /media/courses/cms-611j-creating-video-games-fall-2014/72462e003aae6471e1539ca13feb0243_CMS-611_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: CMS-611_stat-students
 uid: 72462e00-3aae-6471-e153-9ca13feb0243

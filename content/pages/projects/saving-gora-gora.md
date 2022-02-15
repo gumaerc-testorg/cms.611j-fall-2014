@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Student Game Projects
+parent_type: CourseSection
 parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 title: 'Final Project: Saving Gora Gora'
 uid: d5d9e066-5477-99f0-61e2-9cba26150421

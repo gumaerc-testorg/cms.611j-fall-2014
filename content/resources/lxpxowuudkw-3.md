@@ -3,8 +3,10 @@ content_type: resource
 description: Transcript of a video providing a closer look at the development of the
   Hello Waves game. Capturing each step in the team's iterative process, the video
   provides an in-depth view into how the team took their idea from pitch to product.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/cac2c453efbb8ada704f1ad3546b8d84_lxpXowuUdKw.pdf
+file: /media/courses/cms-611j-creating-video-games-fall-2014/cac2c453efbb8ada704f1ad3546b8d84_lxpXowuUdKw.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: cac2c453-efbb-8ada-704f-1ad3546b8d84

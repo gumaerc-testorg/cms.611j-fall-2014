@@ -4,8 +4,10 @@ description: Subtitle file for a video providing a closer look at the developmen
   of the Hello Waves game. Capturing each step in the team's iterative process, the
   video provides an in-depth view into how the team took their idea from pitch to
   product. This part focuses on rehearsing for the final presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/571d087cd738b8f11c14f94ca95e6870_lxpXowuUdKw.srt
+file: /media/courses/cms-611j-creating-video-games-fall-2014/571d087cd738b8f11c14f94ca95e6870_lxpXowuUdKw.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 571d087c-d738-b8f1-1c14-f94ca95e6870

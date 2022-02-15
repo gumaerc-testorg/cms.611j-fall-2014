@@ -2,8 +2,10 @@
 content_type: resource
 description: Subtitle file for a video introduction to Sara Verrilli, one of the course
   instructors.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/0fc7112a253646520062c82d9fdd6265_bhk8Wtgpb1w.srt
+file: /media/courses/cms-611j-creating-video-games-fall-2014/0fc7112a253646520062c82d9fdd6265_bhk8Wtgpb1w.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 0fc7112a-2536-4652-0062-c82d9fdd6265

@@ -2,8 +2,10 @@
 content_type: resource
 description: Subtitle file for a video of an interview with Tej Chajed, a student
   from the course, discussing his team project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/aeecc067fd42510caa027d4d559e46ee_bgMZSJ2rfNc.vtt
+file: /media/courses/cms-611j-creating-video-games-fall-2014/aeecc067fd42510caa027d4d559e46ee_bgMZSJ2rfNc.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: aeecc067-fd42-510c-aa02-7d4d559e46ee

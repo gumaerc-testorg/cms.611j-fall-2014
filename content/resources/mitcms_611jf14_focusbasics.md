@@ -5,8 +5,13 @@ description: "Guidelines on focus testing video games, choosing focus testers, w
   \ they start playing, observing testers and gathering data, treating your testers\
   \ with respect, what to do with the data, and a quick checklist of things to do\
   \ and have.\r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/1a20b2e5345f48413761ff0f22c2c99c_MITCMS_611JF14_FocusBasics.pdf
+file: /media/courses/cms-611j-creating-video-games-fall-2014/1a20b2e5345f48413761ff0f22c2c99c_MITCMS_611JF14_FocusBasics.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Student Game Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Focus Testing Basics
 uid: 1a20b2e5-345f-4841-3761-ff0f22c2c99c

@@ -2,7 +2,10 @@
 content_type: page
 is_media_gallery: true
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 7cf88c38-e571-6315-bc92-a6436ff438f6
 title: Meet the Instructors
 uid: b7504173-f7b7-6e88-938f-f473c5131c11

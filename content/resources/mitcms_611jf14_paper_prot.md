@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on prototyping and playtesting video games with
   paper.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-611j-creating-video-games-fall-2014/348ee58d265e61e4760d196bd97b1ad1_MITCMS_611JF14_Paper_Prot.pdf
+file: /media/courses/cms-611j-creating-video-games-fall-2014/348ee58d265e61e4760d196bd97b1ad1_MITCMS_611JF14_Paper_Prot.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides and Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Paper Prototyping
 uid: 348ee58d-265e-61e4-760d-196bd97b1ad1

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Student Game Projects
+parent_type: CourseSection
 parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 title: 'Final Project: Cholera Control'
 uid: 9921714d-b32b-7623-5e76-739007ee10a8
