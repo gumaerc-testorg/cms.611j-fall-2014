@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Session 9: Guest Lecture \u2013  Hidetaka \u201CSWERY\u201D Suehiro (Access\
   \ Games)"
 uid: 63a17b67-f573-0899-dfb3-b0e3b768b02a

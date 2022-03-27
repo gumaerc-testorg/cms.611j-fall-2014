@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 7: Quality Assurance; Playtesting by Genevieve Conley (Riot Games);
   Focus Testing Results'
 uid: f0ba86a0-bac7-25da-e91b-d478dd49cd56

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
+parent_uid: 90e2e70d-cfd3-8049-791c-fa676d936848
 resourcetype: Document
 title: Back of the Box
 uid: 8a6928f7-c588-869d-b842-6ccac1c6f432

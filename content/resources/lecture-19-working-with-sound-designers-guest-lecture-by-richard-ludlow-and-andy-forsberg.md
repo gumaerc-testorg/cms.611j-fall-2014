@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 19: Working with Sound Designers by Richard Ludlow and Andy Forsberg
   (Hexany Audio)'
 uid: 8038ecb0-5757-e0dc-6b1e-b34867e5a719

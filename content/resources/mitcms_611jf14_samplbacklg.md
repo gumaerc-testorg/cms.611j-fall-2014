@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection
+parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 resourcetype: Other
 title: Sample Project Backlog
 uid: 8955e50a-b7c7-d7b8-e991-393f0125707b

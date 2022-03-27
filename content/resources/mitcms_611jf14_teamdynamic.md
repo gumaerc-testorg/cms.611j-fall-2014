@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
+parent_uid: 90e2e70d-cfd3-8049-791c-fa676d936848
 resourcetype: Document
 title: Team Dynamics
 uid: ad0631ae-3935-8e86-b0c0-5078f4de173d

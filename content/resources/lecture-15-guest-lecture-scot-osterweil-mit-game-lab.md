@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 15: Freedoms of Play by Scot Osterweil (MIT Game Lab);  Project 4
   Playtesting; Project 4 Status Report'
 uid: 09a39476-74e1-36e5-9ea0-31762921277f

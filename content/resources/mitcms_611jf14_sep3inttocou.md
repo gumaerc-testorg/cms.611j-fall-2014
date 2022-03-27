@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
+parent_uid: 90e2e70d-cfd3-8049-791c-fa676d936848
 resourcetype: Document
 title: Creating Videogames
 uid: 7d5aa541-7112-8629-4137-3710c9950725

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection
+parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 resourcetype: Document
 title: 'Project 2: Digital Prototype with Project Management'
 uid: da82779f-c3e8-0d53-b8d6-d4e3a8701c23

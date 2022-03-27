@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
+parent_uid: 90e2e70d-cfd3-8049-791c-fa676d936848
 resourcetype: Document
 title: Brainstorming
 uid: f6438075-6ad9-1a04-99d4-88ea5482af63

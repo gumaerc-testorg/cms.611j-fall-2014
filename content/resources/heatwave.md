@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Final Project: Heat Wave'
 parent_type: CourseSection
+parent_uid: 730c94b5-1a9f-064e-2879-a827ca62822c
 resourcetype: Image
 title: Heat Wave
 uid: 4a501186-8ac8-a354-29bc-190fec88ab21

@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Final Project: Cholera Control'
 parent_type: CourseSection
+parent_uid: 9921714d-b32b-7623-5e76-739007ee10a8
 resourcetype: Image
 title: Cholera Control
 uid: 69e1f411-a309-0f84-2b21-fa36db9f1d60

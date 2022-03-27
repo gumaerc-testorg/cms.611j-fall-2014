@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Teaching Students How to Solve Creative Problems as Teams
 uid: e1ab4a64-90d2-8ef0-2628-e47bdac04dd3
 video_files:

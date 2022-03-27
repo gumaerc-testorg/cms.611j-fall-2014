@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection
+parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 resourcetype: Document
 title: Focus Testing Basics
 uid: 1a20b2e5-345f-4841-3761-ff0f22c2c99c

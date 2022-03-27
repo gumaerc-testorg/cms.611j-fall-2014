@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection
+parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 resourcetype: Document
 title: Class on Creating Video Games, Useful Tools for Game Making
 uid: 1875ec3f-3970-518f-0353-c4c1c6e83f3b

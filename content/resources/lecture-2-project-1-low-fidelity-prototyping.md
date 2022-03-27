@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 2: Project 1; Brainstorming and Low-Fidelity Prototyping'
 uid: 9bb638f4-2416-5f78-927c-55f0eb80ca77
 video_files:

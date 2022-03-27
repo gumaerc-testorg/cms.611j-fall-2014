@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 24: Running a Game Studio (Guest Lecture by Michael Carriere and Jenna
   Hoffstein)'
 uid: 71fd261a-d557-fc64-b77c-4e2ea11a6f59

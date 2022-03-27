@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Final Project: Saving Gora Gora'
 parent_type: CourseSection
+parent_uid: d5d9e066-5477-99f0-61e2-9cba26150421
 resourcetype: Image
 title: Saving Gora Gora
 uid: 520ab874-3e5d-fe2f-6aab-59df91408e61

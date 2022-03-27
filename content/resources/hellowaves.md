@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Final Project: Hello Waves'
 parent_type: CourseSection
+parent_uid: 41d8007e-2d04-e291-e6fb-77f2957ff939
 resourcetype: Image
 title: Hello Waves
 uid: 158cb54d-4554-f210-bd4f-0e9076758900

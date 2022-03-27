@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 11: Game Development and Best Practices by Tim Cowan  (EA Games)'
 uid: 2ebfd4b8-3eb8-103a-3db0-75661ef5d762
 video_files:

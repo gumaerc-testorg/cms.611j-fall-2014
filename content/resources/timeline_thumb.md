@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 7cf88c38-e571-6315-bc92-a6436ff438f6
 resourcetype: Image
 title: timeline_thumb
 uid: 326dc4a6-80b3-edb6-7958-bb3386ac9cdd

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection
+parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 resourcetype: Document
 title: Towards a Game on Managing the Risk of Cholera for Schoolchildren in Ghana
 uid: dcd30f00-e7d9-81be-feb4-53fc4d763c9a

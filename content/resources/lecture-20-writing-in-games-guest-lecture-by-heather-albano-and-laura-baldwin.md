@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 20: Writing in Games by Heather Albano and Laura Baldwin'
 uid: 7d2c8f34-b77f-1c63-9fc8-d29b06fea174
 video_files:

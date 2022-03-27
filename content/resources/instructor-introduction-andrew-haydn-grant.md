@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Instructor Introduction: Andrew Haydn Grant'
 uid: ef23c1ae-e9b3-a3f4-956a-b2d5e1d82a2e
 video_files:

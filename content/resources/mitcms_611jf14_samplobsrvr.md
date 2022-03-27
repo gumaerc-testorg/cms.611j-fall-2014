@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection
+parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 resourcetype: Document
 title: Class on Creating Video Games, Sample Focus Test Document
 uid: 0e375e95-0326-e7df-67c4-e6e66567a12a
