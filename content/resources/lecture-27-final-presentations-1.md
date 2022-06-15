@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '5391'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Final Project: Cholera Control'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '4255'
 title: 'Session 27: Final Presentations'
 uid: 87ee3354-60e0-3c36-a791-0d928f719e12
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** In this lecture, the students deliver their final presentations.
 
 **Instructors:** Philip Tan, Sara Verrilli, Richard Eberhardt, and Andrew Grant
+
+
+

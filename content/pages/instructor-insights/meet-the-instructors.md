@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In the following videos, the instructors introduce themselves, share\
+  \ their research interests, and discuss what games they\u2019re playing and creating\
+  \ now."
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []

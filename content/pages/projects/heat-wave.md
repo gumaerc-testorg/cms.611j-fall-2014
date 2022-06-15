@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the game "Heat Wave" that was created by a student
+  group for the class.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -13,8 +15,7 @@ uid: 730c94b5-1a9f-064e-2879-a827ca62822c
 The Game
 --------
 
-[![A screenshot of the game Heat Wave.]({{< resource_file 4a501186-8ac8-a354-29bc-190fec88ab21 >}})  
-](/ans7870/CMS/CMS.611/f14/games/heatwave/index.html)
+{{< resource uuid="4a501186-8ac8-a354-29bc-190fec88ab21" href="/ans7870/CMS/CMS.611/f14/games/heatwave/index.html" >}}
 
 When disasters strike, Red Cross Red Crescent volunteers are often among the first to provide relief to the victims. But in most cases, acting before a disaster to mitigate its effects can save more lives. For heat waves, linking early warning with early action involves taking precautions like having older citizens drink more water.
 

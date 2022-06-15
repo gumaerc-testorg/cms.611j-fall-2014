@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this lecture, the professors introduce the course, explain the projects, and start to discuss the aspects of various games.
 
 **Instructors:** Philip Tan, Sara Verrilli, Richard Eberhardt, and Andrew Grant
+
+
+

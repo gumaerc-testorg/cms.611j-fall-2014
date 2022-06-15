@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "This video provides a closer look at the development of one team\u2019\
+  s final project game, Hello Waves. Capturing each step in the team\u2019s iterative\
+  \ process, the video gives educators an in-depth view into how the team took their\
+  \ idea from pitch to product."
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []

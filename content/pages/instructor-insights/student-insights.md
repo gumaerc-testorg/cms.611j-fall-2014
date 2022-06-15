@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In the following videos, students describe various aspects of their experiences
+  in CMS.611J Creating Video Games.
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []

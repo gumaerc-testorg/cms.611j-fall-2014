@@ -2,7 +2,7 @@
 content_type: resource
 description: "Transcript of a lecture video. In this lecture, Sean Baptiste from Fire\
   \ Hose Games discusses promotion and community for video games.\t\t\t\t"
-file: /media/courses/cms-611j-creating-video-games-fall-2014/38d12e6932c83f09321a259bb2166c99_zaabQDKK8WY.pdf
+file: /courses/cms-611j-creating-video-games-fall-2014/38d12e6932c83f09321a259bb2166c99_zaabQDKK8WY.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -10,3 +10,5 @@ resourcetype: Document
 title: 3play pdf file
 uid: 38d12e69-32c8-3f09-321a-259bb2166c99
 ---
+Transcript of a lecture video. In this lecture, Sean Baptiste from Fire Hose Games discusses promotion and community for video games.				
+

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This interactive timeline illustrates key dates and deliverables for
+  projects in CMS.611J. It shows the amount of time instructors allocated for each
+  project and how the projects progressively increased in complexity.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '4254'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Final Project: Heat Wave'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2693'
 title: 'Session 27: Final Presentations'
 uid: 5113a8fa-4da0-8310-2470-b68060819255
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** In this lecture, the students deliver their final presentations.
 
 **Instructors:** Philip Tan, Sara Verrilli, Richard Eberhardt, and Andrew Grant
+
+
+

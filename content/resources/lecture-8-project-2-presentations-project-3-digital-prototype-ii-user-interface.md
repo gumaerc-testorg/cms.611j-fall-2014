@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this lecture, the students present their second project, and are introduced to the third project of the class.
 
 **Instructors:** Richard Eberhardt
+
+
+

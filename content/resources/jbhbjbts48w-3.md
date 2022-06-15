@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-611j-creating-video-games-fall-2014/70db81df792b83a8de75d1f4293dbb90_jbhbJBtS48w.pdf
+file: /courses/cms-611j-creating-video-games-fall-2014/70db81df792b83a8de75d1f4293dbb90_jbhbJBtS48w.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

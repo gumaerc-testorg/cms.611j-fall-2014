@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In the following videos, Philip Tan, Richard Eberhardt, and Sara Verrill
+  describe various aspects of how they taught CMS.611J Creating Video Games.
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []
