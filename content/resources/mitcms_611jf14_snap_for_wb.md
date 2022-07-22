@@ -6,6 +6,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/f0f83140e1c4b2791918c6ea5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '"SNAP!": Warm-up Activity to Elicit Ideas on Open Data '
 uid: f0f83140-e1c4-b279-1918-c6ea59600ae8
 ---
 Instructions for a warm-up activity to elicit ideas on Open Data. Includes notes for facilitators.
-

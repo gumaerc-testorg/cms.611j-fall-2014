@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: The title screen of the game Saving Gora Gora.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Final Project: Saving Gora Gora'
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Saving Gora Gora
 uid: 520ab874-3e5d-fe2f-6aab-59df91408e61
 ---
 Screenshot of a video game created by students in the course. Saving Gora Gora is a game that tries to inform players about the causes, symptoms, and prevention of Cholera. 
-

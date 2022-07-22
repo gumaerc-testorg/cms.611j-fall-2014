@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -18,4 +19,3 @@ title: timeline_thumb
 uid: 326dc4a6-80b3-edb6-7958-bb3386ac9cdd
 ---
 Thumbnail accompanying an interactive timeline for the course that illustrates key dates and deliverables for projects in CMS.611J.
-

@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: A screenshot of the game Heat Wave.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Final Project: Heat Wave'
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Heat Wave
 uid: 4a501186-8ac8-a354-29bc-190fec88ab21
 ---
 Screenshot of a video game created by students in the course. Heat Wave, the game, provides the player with a scenario that mimics a heat wave forecast, and pairs it with actions your character can take to mitigate its effects.
-

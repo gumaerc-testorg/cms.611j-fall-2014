@@ -6,6 +6,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/992826e4dcd24682b6a737c31
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Class on Creating Video Games, Anticipatory Humanitarian Action: Forecas
 uid: 992826e4-dcd2-4682-b6a7-37c3172c6468
 ---
 This resource contains information related to anticipatory humanitarian action: forecast-based early warning protocol.
-

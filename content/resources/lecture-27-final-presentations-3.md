@@ -4,6 +4,7 @@ description: ''
 end_time: '4254'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** In this lecture, the students deliver their final presentations.
 
 **Instructors:** Philip Tan, Sara Verrilli, Richard Eberhardt, and Andrew Grant
-
-
 

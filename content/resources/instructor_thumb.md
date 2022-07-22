@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -19,4 +20,3 @@ title: instructor_thumb
 uid: ab47bfe2-a2d9-bdb5-95b4-380199c4b9af
 ---
 Still image accompanying a set of videos in which Philip Tan, Richard Eberhardt, and Sara Verrill describe various aspects of how they taught CMS.611J Creating Video Games.
-

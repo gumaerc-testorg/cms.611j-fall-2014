@@ -6,6 +6,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/7d45ea86f049c21a38142667b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: A Selection of Indie Games
 uid: 7d45ea86-f049-c21a-3814-2667b9e910f7
 ---
 Lecture handout containing links and details on a selection of indie video games.
-

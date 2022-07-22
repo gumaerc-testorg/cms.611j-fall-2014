@@ -6,6 +6,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/551bfaf95f7c469483408a90e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quality Assurance
 uid: 551bfaf9-5f7c-4694-8340-8a90e7ea92b5
 ---
 Lecture presentation on game software testing, types of testing, and data collection.
-

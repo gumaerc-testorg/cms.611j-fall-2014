@@ -7,6 +7,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/da82779fc3e80d53b8d6d4e3a
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Project 2: Digital Prototype with Project Management'
 uid: da82779f-c3e8-0d53-b8d6-d4e3a8701c23
 ---
 Instructions for a team project to create a playable digital prototype of a video game, based on a low fidelity prototype, while integrating project management concepts into the team’s process.
-

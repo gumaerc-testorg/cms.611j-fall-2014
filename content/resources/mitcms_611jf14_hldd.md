@@ -6,6 +6,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/fe72e5f0c2388e03bfd5ea323
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: High Level Design Document
 uid: fe72e5f0-c238-8e03-bfd5-ea323ec798c3
 ---
 Lecture handout on creating a high level design document for a video game.
-

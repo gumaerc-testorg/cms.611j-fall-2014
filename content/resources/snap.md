@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: A screenshot of the game Snap!
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Final Project: Snap!'
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Snap!
 uid: 4794dff4-cb70-c0c0-5154-6576a09d7b2a
 ---
 Screenshot of a video game created by students in the course. Snap! is a game that focuses on word association, and aims to be a useful tool for brainstorming.
-

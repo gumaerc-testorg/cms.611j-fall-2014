@@ -5,6 +5,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/f64380756ad91a0499d488ea5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Brainstorming
 uid: f6438075-6ad9-1a04-99d4-88ea5482af63
 ---
 Lecture presentation on effective brainstorming.
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -18,4 +19,3 @@ title: CMS-611_classroom-1
 uid: 452c13e7-2e7f-7acb-9d8b-12361010aa1b
 ---
 Photograph of the classroom used to teach CMS.611J Creating Video Games in Fall 2014.
-

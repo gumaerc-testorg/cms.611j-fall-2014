@@ -6,6 +6,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/0ae04c372894a22ed7359fafb
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment: Game Engine Tutorial'
 uid: 0ae04c37-2894-a22e-d735-9fafb9092cb1
 ---
 Assignment to complete a tutorial for one of four game engines: Flixel, HaxeFlixel, Unity3D, or Phaser.
-

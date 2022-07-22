@@ -6,6 +6,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/9d35a969f845f919a9c696530
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Game Engine Selection
 uid: 9d35a969-f845-f919-a9c6-96530ca45fc3
 ---
 Lecture presentation on games engines, criteria for game engine selection, and learning a game engine.
-

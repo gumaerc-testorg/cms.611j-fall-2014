@@ -6,6 +6,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/6fc12ad90b28f3e63df521ff9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Revision Control
 uid: 6fc12ad9-0b28-f3e6-3df5-21ff93c461cc
 ---
 Lecture presentation on revision control, revision control systems, and revision control operations.
-

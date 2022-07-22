@@ -7,6 +7,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/ad0631ae39358e86b0c05078f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Team Dynamics
 uid: ad0631ae-3935-8e86-b0c0-5078f4de173d
 ---
 Lecture presentation on working in teams effectively, agile software development, Tuckman's stages of group development, team dynamics, and the performance of distributed agile teams.
-

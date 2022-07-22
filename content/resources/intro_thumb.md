@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -19,4 +20,3 @@ title: intro_thumb
 uid: 5970fd44-d65e-935c-a05c-98a8fc411b52
 ---
 Still image accompanying a set of videos in which the instructors introduce themselves, share their research interests, and discuss what games they’re playing and creating now.
-
