@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, grading, projects, writing, readings, and statements
+  on plagiarism and harassment.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c321adb5-a59c-6638-24c6-4f0b52329134
 ---

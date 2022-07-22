@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture slides and readings associated with
+  each topic of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Slides and Readings
 uid: 90e2e70d-cfd3-8049-791c-fa676d936848
 ---
@@ -27,22 +32,22 @@ Class Information and Resources
 {{< tdopen >}}
 
 
-[Introduction (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_sep3inttocou)
+{{% resource_link 7d5aa541-7112-8629-4137-3710c9950725 "Introduction (PDF)" %}}
 
-[Project 1 Introduction (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_project1intr)
+{{% resource_link 0afee959-fabd-54a2-50d8-9d84516e8c8f "Project 1 Introduction (PDF)" %}}
 
-[Project 4 Introduction (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_projctintro)
+{{% resource_link 46826b1d-f71d-01ab-8491-db9d91db9f8c "Project 4 Introduction (PDF)" %}}
 
-[Back of the Box (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_back_of_box)
+{{% resource_link 8a6928f7-c588-869d-b842-6ccac1c6f432 "Back of the Box (PDF)" %}}
 
-[High Level Design Document (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_hldd)
+{{% resource_link fe72e5f0-c238-8e03-bfd5-ea323ec798c3 "High Level Design Document (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-["SNAP!": Warm-up Activity to Elicit Ideas on Open Data (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_snap_for_wb)
+{{% resource_link f0f83140-e1c4-b279-1918-c6ea59600ae8 "\"SNAP!\": Warm-up Activity to Elicit Ideas on Open Data (PDF)" %}}
 
 Zoss, J. Matthew. "[The Art of Game Polish: Developers Speak](http://www.gamasutra.com/view/feature/132611/the_art_of_game_polish_developers_.php?print=1)." _Gamasutra_, December 22, 2009.
 
@@ -87,13 +92,13 @@ Design: Brainstorming and Prototyping
 {{< tdopen >}}
 
 
-[Brainstorming (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_brainstormin)
+{{% resource_link f6438075-6ad9-1a04-99d4-88ea5482af63 "Brainstorming (PDF)" %}}
 
-[Paper Prototyping (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_paper_prot)
+{{% resource_link 348ee58d-265e-61e4-760d-196bd97b1ad1 "Paper Prototyping (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Prototyping Map (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_prototmap)
+{{% resource_link d59364e8-7c7a-31b0-f59b-89f84ed6fcc8 "Prototyping Map (PDF)" %}}
 
-[A Selection of Indie Games (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_aseleofinga)
+{{% resource_link 7d45ea86-f049-c21a-3814-2667b9e910f7 "A Selection of Indie Games (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -117,7 +122,7 @@ Fullerton, Tracy. "Digital Prototyping." In _Game Design Workshop: A Playcentric
 Testing
 {{< tdclose >}}
 {{< tdopen >}}
-[Testing (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_tech_tes)
+{{% resource_link 551bfaf9-5f7c-4694-8340-8a90e7ea92b5 "Testing (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -137,11 +142,11 @@ Software Engineering
 {{< tdopen >}}
 
 
-[Game Engines (PDF 1.7MB)]({{< baseurl >}}/resources/mitcms_611jf14_game_engine)
+{{% resource_link 9d35a969-f845-f919-a9c6-96530ca45fc3 "Game Engines (PDF 1.7MB)" %}}
 
-[Version Control (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_source_cont)
+{{% resource_link 6fc12ad9-0b28-f3e6-3df5-21ff93c461cc "Version Control (PDF)" %}}
 
-[Coding Tips (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_coding_tips)
+{{% resource_link 67ef0579-9e79-9842-605b-015427e21718 "Coding Tips (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -161,13 +166,13 @@ Project Management
 {{< tdopen >}}
 
 
-[Vision Statement (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_vision_state)
+{{% resource_link 34947c33-93fa-76b8-ef99-8738a17aae59 "Vision Statement (PDF)" %}}
 
-[Agile Project Management (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_agilelec2)
+{{% resource_link 0455c23a-f9c8-1619-913a-da60f60eda25 "Agile Project Management (PDF)" %}}
 
-[Agile Software Development (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_agilelec1)
+{{% resource_link 6f2261fa-0ca8-10f6-73f3-2a7494d35f73 "Agile Software Development (PDF)" %}}
 
-[Team Dynamics (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_teamdynamic)
+{{% resource_link ad0631ae-3935-8e86-b0c0-5078f4de173d "Team Dynamics (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -213,7 +218,7 @@ Quintans, Desi. "[Game UI by Example: A Crash Course in the Good And the Bad](ht
 Marketing and Business
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)None
+None
 {{< tdclose >}}
 {{< tdopen >}}
 

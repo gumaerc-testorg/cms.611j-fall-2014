@@ -1,8 +1,13 @@
 ---
 content_type: page
+description: In the following videos, students describe various aspects of their experiences
+  in CMS.611J Creating Video Games.
 is_media_gallery: true
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 7cf88c38-e571-6315-bc92-a6436ff438f6
 title: Student Insights
 uid: 00ca35a7-e8ba-d7b7-ee0d-c83010b9b494

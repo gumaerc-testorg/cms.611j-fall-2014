@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section describes the game "Cholera Control" that was created by
+  a student group for the class.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Student Game Projects
+parent_type: CourseSection
 parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 title: 'Final Project: Cholera Control'
 uid: 9921714d-b32b-7623-5e76-739007ee10a8
@@ -9,8 +15,7 @@ uid: 9921714d-b32b-7623-5e76-739007ee10a8
 The Game
 --------
 
-[![A screenshot of the game Cholera Control.]({{< resource_file 69e1f411-a309-0f84-2b21-fa36db9f1d60 >}})  
-](/ans7870/CMS/CMS.611/f14/games/cholera_control_final/index.html)
+{{< resource uuid="69e1f411-a309-0f84-2b21-fa36db9f1d60" href="/ans7870/CMS/CMS.611/f14/games/cholera_control_final/index.html" >}}
 
 _Cholera Control_ puts you in the situation of a cholera outbreak, and you must take action to prevent illness and the spread of infection. The game is built on the premise that cholera is a preventable disease with education on proper sanitary measures.
 
