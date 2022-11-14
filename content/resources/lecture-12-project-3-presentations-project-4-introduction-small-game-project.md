@@ -36,5 +36,3 @@ video_metadata:
 
 **Instructors:** Philip Tan, Richard Eberhardt, and Pablo Suarez
 
-
-
