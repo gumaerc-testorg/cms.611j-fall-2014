@@ -25,6 +25,7 @@ title: 'Session 12: Project 3 Presentations; Project 4 Topics by Guest Pablo Sua
   (Red Cross/Red Crescent Climate Center); Project 4 Brainstorming'
 uid: af2830a6-2789-eced-c111-ffef611091a0
 video_files:
+  archive_url: http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec12_300k.mp4
   video_captions_file: /courses/cms-611j-creating-video-games-fall-2014/4a9c3eab4a4f557d97ba4c33e1e400c7_9is-GrNpNvA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/9is-GrNpNvA/default.jpg
   video_transcript_file: /courses/cms-611j-creating-video-games-fall-2014/1aaacb0ae86c375a45c00d44ff238859_9is-GrNpNvA.pdf
