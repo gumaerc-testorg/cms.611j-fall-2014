@@ -29,7 +29,7 @@ KEY DATES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction; Guest Pablo Suarez ([Red Cross/Red Crescent Climate Center](http://www.climatecentre.org/)); Game Engines; Meaningful Decisions in Games
+Introduction; Guest Pablo Suarez ({{% resource_link "0e34771f-84e7-4f6b-9c0b-0161b3904322" "Red Cross/Red Crescent Climate Center" %}}); Game Engines; Meaningful Decisions in Games
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -101,7 +101,7 @@ Project 2: Product Backlog Due
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Quality Assurance; Playtesting by Genevieve Conley ([Riot Games](http://www.riotgames.com/)); Focus Testing Results
+Quality Assurance; Playtesting by Genevieve Conley ({{% resource_link "fb35de9c-0600-468b-bde5-0333a227a96c" "Riot Games" %}}); Focus Testing Results
 {{< tdclose >}}
 {{< tdopen >}}
 Project 2: Sprint Tasklist Due
@@ -125,7 +125,7 @@ Project 2 Due, Project 3 Out
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture – [Hidetaka "SWERY" Suehiro](https://en.wikipedia.org/wiki/Hidetaka_Suehiro) ([Access Games](http://www.accessgames.co.jp/index_e.html))
+Guest Lecture – {{% resource_link "a98e07c1-6ca7-4d79-bbae-cf829a34d8c7" "Hidetaka \"SWERY\" Suehiro" %}} ({{% resource_link "1026326b-5cae-4236-a2ec-a1d4f6f7ee2a" "Access Games" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -149,7 +149,7 @@ Project 3: HLDD, Project Backlog Due
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Game Development and Best Practices by Tim Cowan ([EA Games](http://www.ea.com/))
+Game Development and Best Practices by Tim Cowan ({{% resource_link "45a8ff9e-5b2d-4f8a-b4cb-30ea32b46eb8" "EA Games" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Project 3: Sprint Tasklist Due
@@ -161,7 +161,7 @@ Project 3: Sprint Tasklist Due
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Project 3 Presentations; Project 4 Topics by Guest Pablo Suarez ([Red Cross/Red Crescent Climate Center](http://www.climatecentre.org/)); Project 4 Brainstorming
+Project 3 Presentations; Project 4 Topics by Guest Pablo Suarez ({{% resource_link "0e34771f-84e7-4f6b-9c0b-0161b3904322" "Red Cross/Red Crescent Climate Center" %}}); Project 4 Brainstorming
 {{< tdclose >}}
 {{< tdopen >}}
 Project 3 Due, Project 4 Out
@@ -221,7 +221,7 @@ Team Dynamics
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Working with Artists by [Luigi Guatieri](https://www.superluigiland.net/)
+Working with Artists by {{% resource_link "a6fcc367-44d0-4c6f-9d93-c479b6c31c18" "Luigi Guatieri" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -245,7 +245,7 @@ Project 4 Playable Version Due for Playtesting
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Working with Sound Designers by [Richard Ludlow](http://hexanyaudio.com/about/rludlow/) and [Andy Forsberg](http://www.andyforsbergmusic.com/) ([Hexany Audio](http://hexanyaudio.com/))
+Working with Sound Designers by {{% resource_link "b3a49299-c185-4628-8e21-e45735ae42db" "Richard Ludlow" %}} and {{% resource_link "b215631a-9dde-44be-97ee-6a84ca90d34e" "Andy Forsberg" %}} ({{% resource_link "37dedbab-3724-4041-86e5-6d4e895c1dce" "Hexany Audio" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Project 4: Sprint Tasklist, Focus Test Report Due
@@ -257,7 +257,7 @@ Project 4: Sprint Tasklist, Focus Test Report Due
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Writing in Games by [Heather Albano](https://www.heatheralbano.com/) and [Laura Baldwin](http://boojum.mit.edu/)
+Writing in Games by {{% resource_link "f1d2d313-8d33-4b4d-a51f-c03c12b52173" "Heather Albano" %}} and {{% resource_link "3ae4b8e8-7650-4333-8db7-e5ff18ef2bad" "Laura Baldwin" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Project 4: Sprint Tasklist Due
@@ -269,7 +269,7 @@ Project 4: Sprint Tasklist Due
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: [Blizzard Entertainment](http://us.blizzard.com/en-us/)
+Guest Lecture: {{% resource_link "35e8244f-928f-4ed4-b8e0-d155c20fb189" "Blizzard Entertainment" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Project 4 Playable Version Due for Playtesting
@@ -305,7 +305,7 @@ Project 4 Feedback; Team Discussions
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Running a Game Studio (Guest Lecture by Michael Carriere and Jenna Hoffstein of the [Indie Game Collective](http://www.indiegamecollective.org/))
+Running a Game Studio (Guest Lecture by Michael Carriere and Jenna Hoffstein of the {{% resource_link "6d430241-40fa-4bed-841f-2b57e5b43651" "Indie Game Collective" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Project 4: Sprint Tasklist Due
@@ -317,7 +317,7 @@ Project 4: Sprint Tasklist Due
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Getting Players to Your Game by Sean Baptiste ([Fire Hose Games](http://www.firehosegames.com/))
+Getting Players to Your Game by Sean Baptiste ({{% resource_link "997cdca7-e73f-4c2b-870d-fb8410b04182" "Fire Hose Games" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
