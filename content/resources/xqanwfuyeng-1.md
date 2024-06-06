@@ -4,6 +4,7 @@ description: Transcript of a lecture video. In this lecture the professors discu
   playtesting, a representative from Riot Games describes playtesting at her company,
   and students discuss focus test results.
 file: /courses/cms-611j-creating-video-games-fall-2014/2ab68888bfc523904aa84829c37f0dd5_xQANWfUYeNg.pdf
+file_size: 140624
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

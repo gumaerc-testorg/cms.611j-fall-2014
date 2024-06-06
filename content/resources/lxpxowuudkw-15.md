@@ -5,6 +5,7 @@ description: Transcript of a video providing a closer look at the development of
   provides an in-depth view into how the team took their idea from pitch to product.
   This part focuses on final presentations of the team project.
 file: /courses/cms-611j-creating-video-games-fall-2014/6ebea59443d93ef8c870239a3c59cf28_lxpXowuUdKw.pdf
+file_size: 86140
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

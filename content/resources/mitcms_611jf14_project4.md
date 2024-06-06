@@ -4,6 +4,7 @@ description: Instructions for a team project to create a small but fully functio
   and well polished web browser game for an external client, using the project and
   team management techniques learned in the course.
 file: /courses/cms-611j-creating-video-games-fall-2014/fd6b39c34b016100aa78ff05663f936f_MITCMS_611JF14_project4.pdf
+file_size: 242599
 file_type: application/pdf
 learning_resource_types:
 - Projects

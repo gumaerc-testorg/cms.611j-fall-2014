@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on agile project management, sprint backlogs, tasklists,
   and tasks.
 file: /courses/cms-611j-creating-video-games-fall-2014/0455c23af9c81619913ada60f60eda25_MITCMS_611JF14_AgileLec2.pdf
+file_size: 368638
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

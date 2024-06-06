@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on a team project to create a small but fully functional
   and polished web browser game for an external client.
 file: /courses/cms-611j-creating-video-games-fall-2014/46826b1df71d01ab8491db9d91db9f8c_MITCMS_611JF14_ProjctIntro.pdf
+file_size: 474831
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

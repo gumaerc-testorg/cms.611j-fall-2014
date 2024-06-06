@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on effective brainstorming.
 file: /courses/cms-611j-creating-video-games-fall-2014/f64380756ad91a0499d488ea5482af63_MITCMS_611JF14_Brainstormin.pdf
+file_size: 123610
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

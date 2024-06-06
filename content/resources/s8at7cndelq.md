@@ -4,6 +4,7 @@ description: "Subtitle file for a lecture video. In this lecture, Scot Osterweil
   \ the MIT Game Lab discusses design in educational games and the students present\
   \ status updates for Project 4.\t\t\t\t"
 file: /courses/cms-611j-creating-video-games-fall-2014/0cae090564d266d8072cca90f17b7d8f_s8At7cnDelQ.srt
+file_size: 97621
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

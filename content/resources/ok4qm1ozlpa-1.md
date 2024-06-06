@@ -3,6 +3,7 @@ content_type: resource
 description: Subtitle file for a lecture video. Transcript of a lecture video. In
   this lecture, the students rehearse their final presentations.
 file: /courses/cms-611j-creating-video-games-fall-2014/b8c33a242952d3cf7303f152c6202dab_ok4qM1OzlPA.pdf
+file_size: 160907
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
