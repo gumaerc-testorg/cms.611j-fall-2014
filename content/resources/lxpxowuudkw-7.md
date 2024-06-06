@@ -5,6 +5,7 @@ description: Transcript of a lecture video providing a closer look at the develo
   video provides an in-depth view into how the team took their idea from pitch to
   product. This part focuses on game mechanics brainstorming.
 file: /courses/cms-611j-creating-video-games-fall-2014/d68ac3cfadc25ee48771e9d0f12938b5_lxpXowuUdKw.pdf
+file_size: 86140
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

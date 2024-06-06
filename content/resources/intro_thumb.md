@@ -4,6 +4,7 @@ description: "Still image accompanying a set of videos in which the instructors 
   \ themselves, share their research interests, and discuss what games they\u2019\
   re playing and creating now."
 file: /courses/cms-611j-creating-video-games-fall-2014/5970fd44d65e935ca05c98a8fc411b52_intro_thumb.jpg
+file_size: 118568
 file_type: image/jpeg
 image_metadata:
   caption: ''

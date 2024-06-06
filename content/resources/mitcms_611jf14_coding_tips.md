@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation containing tips on writing good code.
 file: /courses/cms-611j-creating-video-games-fall-2014/67ef05799e799842605b015427e21718_MITCMS_611JF14_Coding_Tips.pdf
+file_size: 386869
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

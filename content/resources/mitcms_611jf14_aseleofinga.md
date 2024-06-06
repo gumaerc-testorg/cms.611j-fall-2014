@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture handout containing links and details on a selection of indie
   video games.
 file: /courses/cms-611j-creating-video-games-fall-2014/7d45ea86f049c21a38142667b9e910f7_MITCMS_611JF14_ASeleOfInGa.pdf
+file_size: 125958
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: "Subtitle file for a lecture video. In this lecture, the professors
   \ project management and paring down features to fit the allotted project timeframe.\t\
   \t\t\t"
 file: /courses/cms-611j-creating-video-games-fall-2014/97a31ef511f755b8b5b9833e6b67ac2b_Ya8wC2rNQK0.vtt
+file_size: 109302
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

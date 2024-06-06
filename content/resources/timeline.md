@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-611j-creating-video-games-fall-2014/65abfeeb3100a4cd76ab98450aa04b36_timeline.json
+file_size: 19770
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

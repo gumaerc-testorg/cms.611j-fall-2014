@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture handout on creating a high level design document for a video
   game.
 file: /courses/cms-611j-creating-video-games-fall-2014/fe72e5f0c2388e03bfd5ea323ec798c3_MITCMS_611JF14_HLDD.pdf
+file_size: 459622
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
