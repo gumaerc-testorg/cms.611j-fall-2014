@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on creating a vision statement for a game project.
 file: /courses/cms-611j-creating-video-games-fall-2014/34947c3393fa76b8ef998738a17aae59_MITCMS_611JF14_Vision_State.pdf
+file_size: 373370
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

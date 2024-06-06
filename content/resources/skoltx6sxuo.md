@@ -2,6 +2,7 @@
 content_type: resource
 description: In this lecture, the students deliver their final presentations.
 file: /courses/cms-611j-creating-video-games-fall-2014/684cecf32de654afc4fcf0a80984a1a1_sKolTx6sxUo.srt
+file_size: 197951
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

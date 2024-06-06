@@ -5,6 +5,7 @@ description: Subtitle file for a video providing a closer look at the developmen
   video provides an in-depth view into how the team took their idea from pitch to
   product. This part focuses on creating a digital prototype.
 file: /courses/cms-611j-creating-video-games-fall-2014/014cf8f455bb5582972b91291ee58ad6_lxpXowuUdKw.vtt
+file_size: 86548
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

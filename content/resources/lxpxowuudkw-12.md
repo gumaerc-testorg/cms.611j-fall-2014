@@ -5,6 +5,7 @@ description: Subtitle file for a video providing a closer look at the developmen
   video provides an in-depth view into how the team took their idea from pitch to
   product. This part focuses on rehearsing for the final presentation.
 file: /courses/cms-611j-creating-video-games-fall-2014/571d087cd738b8f11c14f94ca95e6870_lxpXowuUdKw.srt
+file_size: 91403
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: Screenshot of a video game created by students in the course. Snap! is
   a game that focuses on word association, and aims to be a useful tool for brainstorming.
 file: /courses/cms-611j-creating-video-games-fall-2014/4794dff4cb70c0c051546576a09d7b2a_snap.png
+file_size: 140231
 file_type: image/png
 image_metadata:
   caption: Snap!

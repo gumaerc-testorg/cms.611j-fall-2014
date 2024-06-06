@@ -4,6 +4,7 @@ description: Screenshot of a video game created by students in the course. Heat 
   the game, provides the player with a scenario that mimics a heat wave forecast,
   and pairs it with actions your character can take to mitigate its effects.
 file: /courses/cms-611j-creating-video-games-fall-2014/4a5011868ac8a35429bc190fec88ab21_heatwave.png
+file_size: 96766
 file_type: image/png
 image_metadata:
   caption: Heat Wave.

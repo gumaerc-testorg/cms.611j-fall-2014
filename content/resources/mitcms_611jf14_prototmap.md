@@ -2,6 +2,7 @@
 content_type: resource
 description: Hexagonal and square grids for prototyping video games with paper.
 file: /courses/cms-611j-creating-video-games-fall-2014/d59364e87c7a31b0f59b89f84ed6fcc8_MITCMS_611JF14_PrototMap.pdf
+file_size: 54518
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
