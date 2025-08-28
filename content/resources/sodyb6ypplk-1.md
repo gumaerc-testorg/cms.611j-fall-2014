@@ -3,7 +3,7 @@ content_type: resource
 description: Transcript of a lecture video. In this lecture, the lecturers discuss
   with every group about their projects, including their working plans and issues
   they may have.
-file: /courses/cms-611j-creating-video-games-fall-2014/af2b310ec095d6fdb7e3c280fc89c250_SODYb6YPPLk.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/af2b310ec095d6fdb7e3c280fc89c250_SODYb6YPPLk.pdf
 file_size: 157329
 file_type: application/pdf
 learning_resource_types: []

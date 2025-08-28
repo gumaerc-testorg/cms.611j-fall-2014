@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: In this lecture, the students deliver their final presentations.
-file: /courses/cms-611j-creating-video-games-fall-2014/abb4feeebcf5549bba1e24d5142c5001_sKolTx6sxUo.vtt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/abb4feeebcf5549bba1e24d5142c5001_sKolTx6sxUo.vtt
 file_size: 186061
 file_type: application/x-subrip
 learning_resource_types: []

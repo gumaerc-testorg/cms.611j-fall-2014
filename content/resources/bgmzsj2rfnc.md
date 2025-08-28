@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a video of an interview with Tej Chajed, a student
   from the course, discussing his team project.
-file: /courses/cms-611j-creating-video-games-fall-2014/8c083711e54d526876bd79496541b752_bgMZSJ2rfNc.srt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/8c083711e54d526876bd79496541b752_bgMZSJ2rfNc.srt
 file_size: 8710
 file_type: application/x-subrip
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Transcript of a video of the Saving Gora Gora team's final presentation.
-file: /courses/cms-611j-creating-video-games-fall-2014/2789eb0be1484862fe4f4b0612bb1bd6_sKolTx6sxUo.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/2789eb0be1484862fe4f4b0612bb1bd6_sKolTx6sxUo.pdf
 file_size: 175447
 file_type: application/pdf
 learning_resource_types: []

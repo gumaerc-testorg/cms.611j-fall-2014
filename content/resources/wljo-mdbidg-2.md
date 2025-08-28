@@ -3,7 +3,7 @@ content_type: resource
 description: Subtitle file for a video interview with Pablo Suarez, Associate Director
   for Research and Innovation at the Red Cross/Red Crescent Climate Center. He shares
   his insights about partnering with the students and instructors in CMS.611J.
-file: /courses/cms-611j-creating-video-games-fall-2014/86165afcc27552db94194c233878d615_WLjo-mDBiDg.vtt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/86165afcc27552db94194c233878d615_WLjo-mDBiDg.vtt
 file_size: 14536
 file_type: application/x-subrip
 learning_resource_types: []

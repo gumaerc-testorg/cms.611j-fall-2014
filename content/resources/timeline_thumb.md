@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail accompanying an interactive timeline for the course that illustrates
   key dates and deliverables for projects in CMS.611J.
-file: /courses/cms-611j-creating-video-games-fall-2014/326dc4a680b3edb67958bb3386ac9cdd_timeline_thumb.png
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/326dc4a680b3edb67958bb3386ac9cdd_timeline_thumb.png
 file_size: 96223
 file_type: image/png
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: "Subtitle file for a lecture video. In this lecture, Sean Baptiste from\
   \ Fire Hose Games discusses promotion and community for video games.\t\t\t\t"
-file: /courses/cms-611j-creating-video-games-fall-2014/97834ddc19df5cc985d1d43b2681ae28_zaabQDKK8WY.vtt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/97834ddc19df5cc985d1d43b2681ae28_zaabQDKK8WY.vtt
 file_size: 76696
 file_type: application/x-subrip
 learning_resource_types: []

@@ -3,7 +3,7 @@ content_type: resource
 description: Thumbnail image of a screenshot of Hello Waves, a video game created
   by a group of MIT students for the course. Image courtesy of MIT students. Used
   with permission.
-file: /courses/cms-611j-creating-video-games-fall-2014/4071a2e7d5f91a9e342efa8dce6c7211_cms-611kf14-th.jpg
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/4071a2e7d5f91a9e342efa8dce6c7211_cms-611kf14-th.jpg
 file_size: 11801
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Photograph of the classroom used to teach CMS.611J Creating Video Games
   in Fall 2014.
-file: /courses/cms-611j-creating-video-games-fall-2014/452c13e72e7f7acb9d8b12361010aa1b_CMS-611_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/452c13e72e7f7acb9d8b12361010aa1b_CMS-611_classroom-1.jpg
 file_size: 56769
 file_type: image/jpeg
 image_metadata:

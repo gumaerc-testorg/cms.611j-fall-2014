@@ -2,7 +2,7 @@
 content_type: resource
 description: "Subtitle file for a lecture video. In this lecture, the professors discuss\
   \ the development of video game stories.\t"
-file: /courses/cms-611j-creating-video-games-fall-2014/687f32e0c9b456a79d363972a6f98e97_SSnV-2uWG9w.vtt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/687f32e0c9b456a79d363972a6f98e97_SSnV-2uWG9w.vtt
 file_size: 107421
 file_type: application/x-subrip
 learning_resource_types: []

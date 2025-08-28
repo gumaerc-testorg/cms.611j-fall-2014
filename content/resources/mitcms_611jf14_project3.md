@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions for a team project on project management, focus design iteration,
   usability, and user testing.
-file: /courses/cms-611j-creating-video-games-fall-2014/91c541057ab3034894685086ae9380f3_MITCMS_611JF14_project3.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/91c541057ab3034894685086ae9380f3_MITCMS_611JF14_project3.pdf
 file_size: 244924
 file_type: application/pdf
 learning_resource_types:
