@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Transcript of a video of the Snap! team's final presentation.
-file: /courses/cms-611j-creating-video-games-fall-2014/1f3e06e1f1cccb62eff3358066c83e23_sKolTx6sxUo.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/1f3e06e1f1cccb62eff3358066c83e23_sKolTx6sxUo.pdf
 file_size: 175447
 file_type: application/pdf
 learning_resource_types: []

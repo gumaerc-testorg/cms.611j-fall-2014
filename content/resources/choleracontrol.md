@@ -4,7 +4,7 @@ description: Screenshot of a video game created by students in the course. Chole
   Control puts you in the situation of a cholera outbreak, and you must take action
   to prevent illness and the spread of infection. The game is built on the premise
   that cholera is a preventable disease with education on proper sanitary measures.
-file: /courses/cms-611j-creating-video-games-fall-2014/69e1f411a3090f842b21fa36db9f1d60_choleracontrol.png
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/69e1f411a3090f842b21fa36db9f1d60_choleracontrol.png
 file_size: 121701
 file_type: image/png
 image_metadata:

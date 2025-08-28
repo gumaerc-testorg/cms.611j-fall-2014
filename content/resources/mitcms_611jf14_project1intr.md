@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on the first team project of the course. Includes
   information on the timeline and deliverables, project management, brainstorming,
   and team formation.
-file: /courses/cms-611j-creating-video-games-fall-2014/0afee959fabd54a250d89d84516e8c8f_MITCMS_611JF14_Project1Intr.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/0afee959fabd54a250d89d84516e8c8f_MITCMS_611JF14_Project1Intr.pdf
 file_size: 495820
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a lecture video. In this lecture, SWERY from Access
   Games describes his experience in game development.
-file: /courses/cms-611j-creating-video-games-fall-2014/c340a860adbe44076fe449f1e851a91e_B1zWyyNoRq8.srt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/c340a860adbe44076fe449f1e851a91e_B1zWyyNoRq8.srt
 file_size: 66292
 file_type: application/x-subrip
 learning_resource_types: []

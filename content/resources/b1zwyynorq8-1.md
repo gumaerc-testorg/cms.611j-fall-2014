@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of a lecture video. In this lecture, Hidetaka "SWERY" Suehiro
   from Access Games describes his experience in game development.
-file: /courses/cms-611j-creating-video-games-fall-2014/1ae8d93b905da1d6559a884c89e8a15a_B1zWyyNoRq8.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/1ae8d93b905da1d6559a884c89e8a15a_B1zWyyNoRq8.pdf
 file_size: 79918
 file_type: application/pdf
 learning_resource_types: []

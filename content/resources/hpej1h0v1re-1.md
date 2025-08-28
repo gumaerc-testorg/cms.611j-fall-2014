@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of a video providing instructor insights on assessing students'
   projects.
-file: /courses/cms-611j-creating-video-games-fall-2014/ef3aeaf36a1892646cff7432e51f15e3_HpeJ1h0V1RE.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/ef3aeaf36a1892646cff7432e51f15e3_HpeJ1h0V1RE.pdf
 file_size: 16470
 file_type: application/pdf
 learning_resource_types: []

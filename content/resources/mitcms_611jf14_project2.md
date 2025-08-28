@@ -3,7 +3,7 @@ content_type: resource
 description: "Instructions for a team project to create a playable digital prototype\
   \ of a video game, based on a low fidelity prototype, while integrating project\
   \ management concepts into\_the\_team\u2019s\_process."
-file: /courses/cms-611j-creating-video-games-fall-2014/da82779fc3e80d53b8d6d4e3a8701c23_MITCMS_611JF14_project2.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/da82779fc3e80d53b8d6d4e3a8701c23_MITCMS_611JF14_project2.pdf
 file_size: 609931
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: "Subtitle file for a lecture video on Agile software development with\
   \ a focus on project management.\t\t\t"
-file: /courses/cms-611j-creating-video-games-fall-2014/84e12946d73c5114aa77b6a83803d124_nrfl6GAQy2s.vtt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/84e12946d73c5114aa77b6a83803d124_nrfl6GAQy2s.vtt
 file_size: 176664
 file_type: application/x-subrip
 learning_resource_types: []

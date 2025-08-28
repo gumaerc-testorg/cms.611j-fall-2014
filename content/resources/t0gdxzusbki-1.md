@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of a video providing instructor insights on clearly communicating
   the focus of a class.
-file: /courses/cms-611j-creating-video-games-fall-2014/34b73f8ec037c95db6eda59f2c6c751e_T0GdXZusbKI.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/34b73f8ec037c95db6eda59f2c6c751e_T0GdXZusbKI.pdf
 file_size: 16252
 file_type: application/pdf
 learning_resource_types: []

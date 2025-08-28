@@ -3,7 +3,7 @@ content_type: resource
 description: 'Screenshot of a video game created by students in the course. Saving
   Gora Gora is a game that tries to inform players about the causes, symptoms, and
   prevention of Cholera. '
-file: /courses/cms-611j-creating-video-games-fall-2014/520ab8743e5dfe2f6aab59df91408e61_savinggoragora.png
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/520ab8743e5dfe2f6aab59df91408e61_savinggoragora.png
 file_size: 41071
 file_type: image/png
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on working in teams effectively, agile software
   development, Tuckman's stages of group development, team dynamics, and the performance
   of distributed agile teams.
-file: /courses/cms-611j-creating-video-games-fall-2014/ad0631ae39358e86b0c05078f4de173d_MITCMS_611JF14_TeamDynamic.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/ad0631ae39358e86b0c05078f4de173d_MITCMS_611JF14_TeamDynamic.pdf
 file_size: 116468
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a lecture video on the principles of brainstorming
   and prototyping in video game development.
-file: /courses/cms-611j-creating-video-games-fall-2014/7655ca686aae547780443e00211353ff_j8ZGpRo8jd4.vtt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/7655ca686aae547780443e00211353ff_j8ZGpRo8jd4.vtt
 file_size: 119952
 file_type: application/x-subrip
 learning_resource_types: []
