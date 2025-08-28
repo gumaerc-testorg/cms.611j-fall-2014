@@ -4,7 +4,7 @@ description: Subtitle file for a a video providing a closer look at the developm
   of the Hello Waves game. Capturing each step in the team's iterative process, the
   video provides an in-depth view into how the team took their idea from pitch to
   product. This part focuses on game mechanics brainstorming.
-file: /courses/cms-611j-creating-video-games-fall-2014/033b2ea618d55521a3ccd43ec0d00df9_lxpXowuUdKw.vtt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/033b2ea618d55521a3ccd43ec0d00df9_lxpXowuUdKw.vtt
 file_size: 86548
 file_type: application/x-subrip
 learning_resource_types: []

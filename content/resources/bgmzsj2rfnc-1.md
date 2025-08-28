@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of a video of an interview with Tej Chajed, a student from
   the course, discussing his team project.
-file: /courses/cms-611j-creating-video-games-fall-2014/1646a9286162377dd3aff652e2de659b_bgMZSJ2rfNc.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/1646a9286162377dd3aff652e2de659b_bgMZSJ2rfNc.pdf
 file_size: 22679
 file_type: application/pdf
 learning_resource_types: []

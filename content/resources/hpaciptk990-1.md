@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of a video introduction to Richard Eberhardt, one of the course
   instructors.
-file: /courses/cms-611j-creating-video-games-fall-2014/dd326b6500b1576f4716e932c5293cdc_HpACiptk990.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/dd326b6500b1576f4716e932c5293cdc_HpACiptk990.pdf
 file_size: 33215
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a video providing instructor insights on fostering  diversity
   of voice.
-file: /courses/cms-611j-creating-video-games-fall-2014/cd071251cd3456729cceb93855b7f3cb_cBoUvyAaEUY.vtt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/cd071251cd3456729cceb93855b7f3cb_cBoUvyAaEUY.vtt
 file_size: 7328
 file_type: application/x-subrip
 learning_resource_types: []

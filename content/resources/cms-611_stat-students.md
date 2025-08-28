@@ -2,7 +2,7 @@
 content_type: resource
 description: Image showing the number of students enrolled in CMS.611J Creating Video
   Games in Fall 2014.
-file: /courses/cms-611j-creating-video-games-fall-2014/72462e003aae6471e1539ca13feb0243_CMS-611_stat-students.png
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/72462e003aae6471e1539ca13feb0243_CMS-611_stat-students.png
 file_size: 3662
 file_type: image/png
 image_metadata:

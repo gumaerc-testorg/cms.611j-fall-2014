@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to presentation expectations
   and requirements.
-file: /courses/cms-611j-creating-video-games-fall-2014/f00286a318999170f3ad46408c2d1bf9_MITCMS_611JF14_Presntation.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/f00286a318999170f3ad46408c2d1bf9_MITCMS_611JF14_Presntation.pdf
 file_size: 146837
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a lecture video. In this lecture, the professors discuss
   team dynamics in project management.
-file: /courses/cms-611j-creating-video-games-fall-2014/954cc26cf89d58789fe59cb7fcf64fd2_Av9sFr_NsBU.vtt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/954cc26cf89d58789fe59cb7fcf64fd2_Av9sFr_NsBU.vtt
 file_size: 71567
 file_type: application/x-subrip
 learning_resource_types: []

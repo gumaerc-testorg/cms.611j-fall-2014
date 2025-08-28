@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of a video lecture on the principles of brainstorming and
   prototyping in video game development.
-file: /courses/cms-611j-creating-video-games-fall-2014/f7f21fd68c207fb19f3e2a5c41508c8a_j8ZGpRo8jd4.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/f7f21fd68c207fb19f3e2a5c41508c8a_j8ZGpRo8jd4.pdf
 file_size: 112288
 file_type: application/pdf
 learning_resource_types: []

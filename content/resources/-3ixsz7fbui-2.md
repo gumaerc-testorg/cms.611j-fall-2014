@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a video of an interview with Miriam Prosnitz, a student
   from the course, discussing her team project.
-file: /courses/cms-611j-creating-video-games-fall-2014/5988acd5c2c2765556882ffb9e0efa71_-3ixsZ7fBUI.srt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/5988acd5c2c2765556882ffb9e0efa71_-3ixsZ7fBUI.srt
 file_size: 5866
 file_type: application/x-subrip
 learning_resource_types: []

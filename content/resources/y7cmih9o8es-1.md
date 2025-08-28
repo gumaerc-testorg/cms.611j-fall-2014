@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of a video offering instructor insights on teaching students
   how to solve creative problems as teams.
-file: /courses/cms-611j-creating-video-games-fall-2014/9562949f96b88494b0dff5186ed80fc5_Y7cMih9O8es.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/9562949f96b88494b0dff5186ed80fc5_Y7cMih9O8es.pdf
 file_size: 25355
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on games engines, criteria for game engine selection,
   and learning a game engine.
-file: /courses/cms-611j-creating-video-games-fall-2014/9d35a969f845f919a9c696530ca45fc3_MITCMS_611JF14_Game_Engine.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/9d35a969f845f919a9c696530ca45fc3_MITCMS_611JF14_Game_Engine.pdf
 file_size: 1816718
 file_type: application/pdf
 learning_resource_types:

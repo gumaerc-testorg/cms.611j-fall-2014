@@ -3,7 +3,7 @@ content_type: resource
 description: Subtitle file for a lecture video. In this lecture the professors discuss
   playtesting, a representative from Riot Games describes playtesting at her company,
   and students discuss focus test results.
-file: /courses/cms-611j-creating-video-games-fall-2014/71af395d9d5f53408280d2e9fd91fde7_xQANWfUYeNg.vtt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/71af395d9d5f53408280d2e9fd91fde7_xQANWfUYeNg.vtt
 file_size: 146570
 file_type: application/x-subrip
 learning_resource_types: []

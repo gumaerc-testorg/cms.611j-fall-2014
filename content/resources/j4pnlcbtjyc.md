@@ -2,7 +2,7 @@
 content_type: resource
 description: "Subtitle file for a lecture video. In this lecture, Tim Cowan of EA\
   \ Games describes his experiences writing software for game development.\t\t"
-file: /courses/cms-611j-creating-video-games-fall-2014/b73d65b4eb746bf7e9c1604580ce14fa_J4pnlCBTJYc.srt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/b73d65b4eb746bf7e9c1604580ce14fa_J4pnlCBTJYc.srt
 file_size: 99424
 file_type: application/x-subrip
 learning_resource_types: []

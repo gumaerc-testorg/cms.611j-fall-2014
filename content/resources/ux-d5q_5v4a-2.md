@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a video interview with Matthew Susskind, a student
   from the course, discussing his team project.
-file: /courses/cms-611j-creating-video-games-fall-2014/f078b8ec490f4c8641f42663c10433ab_uX-D5Q_5v4A.srt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/f078b8ec490f4c8641f42663c10433ab_uX-D5Q_5v4A.srt
 file_size: 11440
 file_type: application/x-subrip
 learning_resource_types: []

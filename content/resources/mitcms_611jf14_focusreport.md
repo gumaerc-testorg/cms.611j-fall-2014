@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Form used to summarize the goals and results of a focus test.
-file: /courses/cms-611j-creating-video-games-fall-2014/49a45dc4c6e9baf68f554c772e5b3ce1_MITCMS_611JF14_FocusReport.pdf
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/49a45dc4c6e9baf68f554c772e5b3ce1_MITCMS_611JF14_FocusReport.pdf
 file_size: 102425
 file_type: application/pdf
 learning_resource_types:

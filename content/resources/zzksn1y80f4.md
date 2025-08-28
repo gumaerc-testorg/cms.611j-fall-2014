@@ -3,7 +3,7 @@ content_type: resource
 description: "Subtitle file for a lecture video. In this lecture, the professors describe\
   \ topics about game design, including freedoms of play and \"serious\" games.\t\t\
   \t\t"
-file: /courses/cms-611j-creating-video-games-fall-2014/464dc616282c9a10c4d3d8d89cd2a41b_zzKSn1Y80F4.srt
+file: /ol-ocw-studio-app/courses/cms-611j-creating-video-games-fall-2014/464dc616282c9a10c4d3d8d89cd2a41b_zzKSn1Y80F4.srt
 file_size: 68170
 file_type: application/x-subrip
 learning_resource_types: []
