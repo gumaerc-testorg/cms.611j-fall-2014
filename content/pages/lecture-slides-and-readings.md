@@ -49,7 +49,7 @@ Class Information and Resources
 
 {{% resource_link f0f83140-e1c4-b279-1918-c6ea59600ae8 "\"SNAP!\": Warm-up Activity to Elicit Ideas on Open Data (PDF)" %}}
 
-Zoss, J. Matthew. "{{% resource_link "64997a9b-d498-4d57-8a63-22a0eb48eb2c" "The Art of Game Polish: Developers Speak" %}}." _Gamasutra_, December 22, 2009.
+Zoss, J. Matthew. "[The Art of Game Polish: Developers Speak](http://www.gamasutra.com/view/feature/132611/the_art_of_game_polish_developers_.php?print=1)." _Gamasutra_, December 22, 2009.
 
 
 {{< tdclose >}}
@@ -69,17 +69,17 @@ None
 {{< tdopen >}}
 
 
-Extra Credits. "{{% resource_link "44c3b5ee-95e8-4648-b68b-abdcf6ff503d" "Choice and Conflict" %}}." March 24, 2012. YouTube.
+Extra Credits. "[Choice and Conflict](https://www.youtube.com/watch?v=lg8fVtKyYxY)." March 24, 2012. YouTube.
 
-Rose, John. "{{% resource_link "084427f5-d030-49a9-9c31-b7a2689d56a9" "Addressing Conflict: Tension and Release in Games" %}}." _Gamasutra_, July 29, 2010.
+Rose, John. "[Addressing Conflict: Tension and Release in Games](http://www.gamasutra.com/view/feature/134313/addressing_conflict_tension_and_.php)." _Gamasutra_, July 29, 2010.
 
-Extra Credits. "{{% resource_link "cb1d59e8-b768-4ed3-9664-9f431c5f3f93" "Easy Games" %}}." March 6, 2012. YouTube.
+Extra Credits. "[Easy Games](https://www.youtube.com/watch?v=BWFzFsHc75U)." March 6, 2012. YouTube.
 
-Kilgore, Chad. "{{% resource_link "120c1128-d619-49b9-89e7-42f571a3837d" "Understanding Challenge" %}}." _Gamasutra_, January 8, 2013.
+Kilgore, Chad. "[Understanding Challenge](http://www.gamasutra.com/view/feature/184425/understanding_challenge.php)." _Gamasutra_, January 8, 2013.
 
-Extra Credits. "{{% resource_link "60a3fd2d-76d4-47b9-9869-31228cccb2e8" "Playing Like a Designer, Part 1" %}}." April 7, 2012. Youtube.
+Extra Credits. "[Playing Like a Designer, Part 1](https://www.youtube.com/watch?v=_HmtmoGwpZc)." April 7, 2012. Youtube.
 
-Extra Credits. "{{% resource_link "0a2cebbd-4128-4d5c-b03f-9059b596498b" "Playing Like a Designer, Part 2" %}}." April 7, 2012. YouTube.
+Extra Credits. "[Playing Like a Designer, Part 2](https://www.youtube.com/watch?v=6op8eV5OBwE)." April 7, 2012. YouTube.
 
 
 {{< tdclose >}}
@@ -105,13 +105,13 @@ Design: Brainstorming and Prototyping
 {{< tdopen >}}
 
 
-Zimmerman, Eric. "{{% resource_link "97a35cd0-d289-43c2-9d5e-b72f4af39efd" "Play as Research: The Iterative Design Process" %}}." July 8, 2003.
+Zimmerman, Eric. "[Play as Research: The Iterative Design Process](https://famst109mg.wordpress.com/2017/01/17/play-as-research-the-iterative-design-process-eric-zimmerman/)." July 8, 2003.
 
 Osborn, Alex F. "Creative Collaboration by Groups." In _Applied Imagination: Principles and Procedures of Creative Problem-Solving_. Charles Scribner's Sons, 1953.
 
-Fullerton, Tracy, Christopher Swain, and Steven S. Hoffman. "Prototyping." In _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 2nd ed. Morgan Kaufmann, 2008. \[Preview with {{% resource_link "62a8d2c1-0fce-4196-b14e-c0b41c3d2262" "Google Books" %}}\]
+Fullerton, Tracy, Christopher Swain, and Steven S. Hoffman. "Prototyping." In _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 2nd ed. Morgan Kaufmann, 2008. \[Preview with [Google Books](http://books.google.com/books?id=GELLBQAAQBAJ&pg=PA175=onepage)\]
 
-Fullerton, Tracy. "Digital Prototyping." In _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 3rd ed. A. K. Peters / CRC Press, 2014. ISBN: 9781482217162. \[Preview with {{% resource_link "06c67a40-01f0-491e-83a6-9c87358af9ae" "Google Books" %}}\]
+Fullerton, Tracy. "Digital Prototyping." In _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 3rd ed. A. K. Peters / CRC Press, 2014. ISBN: 9781482217162. \[Preview with [Google Books](http://books.google.com/books?id=7nDvAgAAQBAJ&pg=PA235=onepage)\]
 
 
 {{< tdclose >}}
@@ -127,9 +127,9 @@ Testing
 {{< tdopen >}}
 
 
-Extra Credits. "{{% resource_link "ae7d924e-9aee-4327-8185-b07baaf70086" "Playtesting" %}}." May 19, 2012. YouTube.
+Extra Credits. "[Playtesting](https://www.youtube.com/watch?v=on7endO4lPY)." May 19, 2012. YouTube.
 
-Fullerton, Tracy, Christopher Swain, and Steven S. Hoffman. "Playtesting" and "Functionality, Completeness, and Balance." In _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 2nd ed. Morgan Kaufmann, 2008. ISBN: 9780240809748. \[Preview with {{% resource_link "79e2b4c2-feb6-4a54-a6e1-b39f48ce0026" "Google Books" %}}\]
+Fullerton, Tracy, Christopher Swain, and Steven S. Hoffman. "Playtesting" and "Functionality, Completeness, and Balance." In _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 2nd ed. Morgan Kaufmann, 2008. ISBN: 9780240809748. \[Preview with [Google Books](http://books.google.com/books?id=OjIYWtqWxtAC&pg=PA248=onepage)\]
 
 
 {{< tdclose >}}
@@ -153,7 +153,7 @@ Software Engineering
 {{< tdopen >}}
 
 
-Fowler, Martin, and Kent Beck. "Bad Smells in Code." In _Refactoring: Improving the Design of Existing Code_. Addison-Wesley, 1999. ISBN: 9780201485677. \[Preview with {{% resource_link "9f5512c8-3574-48f6-96c6-b707fed7571a" "Google Books" %}}\]
+Fowler, Martin, and Kent Beck. "Bad Smells in Code." In _Refactoring: Improving the Design of Existing Code_. Addison-Wesley, 1999. ISBN: 9780201485677. \[Preview with [Google Books](http://books.google.com/books?id=pqBXBltqwBAC&pg=PA75#v=onepage)\]
 
 
 {{< tdclose >}}
@@ -179,13 +179,13 @@ Project Management
 {{< tdopen >}}
 
 
-Keith, Clinton. "Agile Development," "About Scrum," "Agile Planning," and "Agile Design." In _Agile Game Development with Scrum_. Addison-Wesley, 2010. ISBN: 9780321618528. \[Preview with {{% resource_link "d7939490-28a9-41b1-a310-3333acd56ac4" "Google Books" %}}
+Keith, Clinton. "Agile Development," "About Scrum," "Agile Planning," and "Agile Design." In _Agile Game Development with Scrum_. Addison-Wesley, 2010. ISBN: 9780321618528. \[Preview with [Google Books](http://books.google.com/books?id=OYWWRFFc29gC&pg=PAfrontcover)
 
-"{{% resource_link "6656b771-d453-44e1-8e77-90700c3057e6" "Scrum Project Backlog" %}}." Agile Bench
+"[Scrum Project Backlog](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/product-backlog)." Agile Bench
 
-O'Connor, Rory, and Shuib Basri. "{{% resource_link "67966527-e8eb-428d-ac08-338da4f812ee" "The Effect of Team Dynamics on Software Development Process Improvement" %}}." _International Journal of Human Capital and Information Technology Professionals_ 3, no. 3 (2012): 13–26.
+O'Connor, Rory, and Shuib Basri. "[The Effect of Team Dynamics on Software Development Process Improvement](http://dx.doi.org/10.4018/jhcitp.2012070102)." _International Journal of Human Capital and Information Technology Professionals_ 3, no. 3 (2012): 13–26.
 
-Dorairaj, Siva, James Nobel, et al. "{{% resource_link "4ec08c4b-cbda-4f5d-9a0f-9c2bf328383c" "Understanding Team Dynamics in Distributed Agile Software Development" %}}." _Agile Processes in Software Engineering and EXtreme Programming_ 111 (2012): 47–61.
+Dorairaj, Siva, James Nobel, et al. "[Understanding Team Dynamics in Distributed Agile Software Development](http://dx.doi.org/10.1007/978-3-642-30350-0_4)." _Agile Processes in Software Engineering and EXtreme Programming_ 111 (2012): 47–61.
 
 
 {{< tdclose >}}
@@ -207,7 +207,7 @@ None
 
 Norman, Donald A. "The Psychopathology of Everyday Things." In _The Design of Everyday Things_. Basic Books, 2013. ISBN: 9780465050659.
 
-Quintans, Desi. "{{% resource_link "fc629b65-305c-40bf-99bd-f370fb4d2aee" "Game UI by Example: A Crash Course in the Good And the Bad" %}}." January 22, 2013.
+Quintans, Desi. "[Game UI by Example: A Crash Course in the Good And the Bad](http://gamedevelopment.tutsplus.com/tutorials/game-ui-by-example-a-crash-course-in-the-good-and-bad--gamedev-3943)." January 22, 2013.
 
 
 {{< tdclose >}}
@@ -223,7 +223,7 @@ None
 {{< tdopen >}}
 
 
-Gworek, Jonathan D. "{{% resource_link "cb1a8eee-9760-444a-8c94-e103185a9574" "The Low Down on Startups" %}}." _Morse, Barnes-Brown & Pendleton, P. C_. September 2001.
+Gworek, Jonathan D. "[The Low Down on Startups](http://www.mbbp.com/news/low-down)." _Morse, Barnes-Brown & Pendleton, P. C_. September 2001.
 
 
 {{< tdclose >}}
