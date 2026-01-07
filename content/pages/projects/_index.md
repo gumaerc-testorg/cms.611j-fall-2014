@@ -39,15 +39,15 @@ uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 
 ## Project 4 References
 
-- {{% resource_link "eeedfb67-a055-430f-847b-f4cd09b5e102" "\"Games for a New Climate: Experiencing the Complexity of Future Risks.\" Pardee Center Task Force Report, 2012." %}}
-- {{% resource_link "5a180b9c-3b76-485e-8dc8-9316273cf365" "Suarez, Pablo. \"Linking Climate Knowledge and Decisions: Humanitarian Challenges.\" The Pardee Papers, 2009." %}}
-- {{% resource_link "70bbcc9a-70aa-4592-8337-4d3afae033a3" "\"Early Warning, Early Action.\" International Federation of Red Cross and Red Crescent Societies, 2008. (PDF)" %}}
+- ["Games for a New Climate: Experiencing the Complexity of Future Risks." Pardee Center Task Force Report, 2012.](http://www.bu.edu/pardee/publications-library/2012-archive-2/games-climate-task-force/)
+- [Suarez, Pablo. "Linking Climate Knowledge and Decisions: Humanitarian Challenges." The Pardee Papers, 2009.](http://www.bu.edu/pardee/pardee-paper-007-climate/)
+- ["Early Warning, Early Action." International Federation of Red Cross and Red Crescent Societies, 2008. (PDF)](https://www.climatecentre.org/downloads/files/reports/Early%20Warning%20Early%20Action%202008.pdf)
 - "Urban Risk Reduction (URR) Climate Assessment." International Federation of Red Cross and Red Crescent Societies, 2012.
-- {{% resource_link "baf519fe-8e9e-4cf6-af94-2bc6be46da07" "\"World Disasters Report: Focus on Early Warning, Early Action.\" International Federation of Red Cross and Red Crescent Societies, 2009." %}}
-- {{% resource_link "37307296-0ac5-4d5f-ae54-4fc3137a55e7" "\"World Disasters Report: Focus on Urban Risk.\" International Federation of Red Cross and Red Crescent Societies, 2010." %}}
+- ["World Disasters Report: Focus on Early Warning, Early Action." International Federation of Red Cross and Red Crescent Societies, 2009.](https://reliefweb.int/report/world/world-disasters-report-2009-focus-early-warning-early-action)
+- ["World Disasters Report: Focus on Urban Risk." International Federation of Red Cross and Red Crescent Societies, 2010.](https://reliefweb.int/report/world/world-disasters-report-focus-urban-risk-2010)
 - {{% resource_link "5a8468e9-9145-2be2-b0ed-53492a28e903" "Heatwave Fact Sheet (PDF)" %}}
-- {{% resource_link "5e8f296c-b76c-46e2-9a76-39ef6e8cf8be" "UNICEF Cholera Toolkit" %}}
+- [UNICEF Cholera Toolkit](https://www.washcluster.net/node/29581)
 - {{% resource_link "dcd30f00-e7d9-81be-feb4-53fc4d763c9a" "Cholera Game Proposal (PDF)" %}}
 - {{% resource_link "992826e4-dcd2-4682-b6a7-37c3172c6468" "Anticipatory Humanitarian Action: Forecast-based Early Warning Protocol (PDF)" %}}
-- {{% resource_link "5d6ebab8-5a55-4145-aa7d-8082e3438dd0" "Coughlan De Perez, E., B. Van Den Hurk, M. Van Aalst, and B. Jongman. \"Forecast-based Financing: An Approach for Catalyzing Humanitarian Action Based on Extreme Weather and Climate Forecasts.\" Natural Hazards and Earth System Sciences, 2014. (PDF)" %}}
-- {{% resource_link "fe7bdbbe-8031-4eb6-aafa-a0a94ab55451" "Paying for Predictions" %}} A participatory activity where players become Red Cross/Red Crescent workers who face changing risks in the face of climate change.
+- [Coughlan De Perez, E., B. Van Den Hurk, M. Van Aalst, and B. Jongman. "Forecast-based Financing: An Approach for Catalyzing Humanitarian Action Based on Extreme Weather and Climate Forecasts." Natural Hazards and Earth System Sciences, 2014. (PDF)](http://www.nat-hazards-earth-syst-sci.net/15/895/2015/nhess-15-895-2015.pdf)
+- [Paying for Predictions](http://www.climatecentre.org/resources-games/paying-for-predictions) A participatory activity where players become Red Cross/Red Crescent workers who face changing risks in the face of climate change.
